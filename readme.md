@@ -1,3 +1,7 @@
+Please see my report in "/report" folder
+
+
+
 Train nerf
 
 ```
@@ -9,6 +13,8 @@ python main_nerf.py data/camera --workspace my_dataset_camera -O --test
 python main_nerf.py data/shukoushui --workspace my_dataset_shukoushui -O --test
 python main_nerf.py data/desk --workspace my_dataset_desk -O --test
 ```
+
+
 
 my self custom dataset is too big too upload, but can be downloaded here:
 
