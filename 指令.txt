@@ -1,6 +1,0 @@
-python main_tensoRF.py data/TanksAndTemple/Caterpillar --workspace trial_tensoRF_Caterpillar -O --bound 1.0 --scale 0.33 --dt_gamma 0 --test
-python main_nerf.py data/TanksAndTemple/Caterpillar --workspace trial_nerf_Caterpillar -O --bound 1.0 --scale 0.33 --dt_gamma 0 --test
-
-python main_nerf.py data/camera --workspace my_dataset_camera -O --test
-python main_nerf.py data/shukoushui --workspace my_dataset_shukoushui -O --test
-python main_nerf.py data/desk --workspace my_dataset_desk -O --test
